@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SlideTransition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SlideTransition",
+  "parent":{
+    "name":"Commons",
+    "path":"folders/Scripts/Commons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

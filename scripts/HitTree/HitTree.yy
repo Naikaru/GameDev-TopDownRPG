@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HitTree",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HitTree",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Scripts/Entities/Objects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

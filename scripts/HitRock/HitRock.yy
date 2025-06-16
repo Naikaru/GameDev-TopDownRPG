@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HitRock",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HitRock",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Scripts/Entities/Objects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

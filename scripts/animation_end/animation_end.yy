@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"animation_end",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"animation_end",
+  "parent":{
+    "name":"Commons",
+    "path":"folders/Scripts/Commons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

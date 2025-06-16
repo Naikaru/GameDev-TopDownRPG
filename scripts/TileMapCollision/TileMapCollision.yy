@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TileMapCollision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TileMapCollision",
+  "parent":{
+    "name":"Commons",
+    "path":"folders/Scripts/Commons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

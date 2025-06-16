@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PickupTool",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PickupTool",
+  "parent":{
+    "name":"Objects",
+    "path":"folders/Scripts/Entities/Objects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

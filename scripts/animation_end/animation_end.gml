@@ -1,0 +1,22 @@
+/// @description animation_end(sprite_index,image_index, rate)
+/// @param {Asset.GMSprite} <sprite_index> The index of the sprite being animated
+/// @param {real} <image_index> The current frame value
+/// @param {real} <rate> -See Below-
+///     The rate of change in frames per step if not
+///     using built in image_index/image_speed.  
+///     Don't use if you don't think you need this.  You probably don't.
+ 
+//returns true if the animation will loop this step.
+ 
+//Script courtesy of PixellatedPope & Minty Python from the GameMaker subreddit discord 
+//https://www.reddit.com/r/gamemaker/wiki/discord
+
+function animation_end(_sprite,_image,_rate=1)
+{
+	var _type=sprite_get_speed_type(sprite_index);
+	var _spd=sprite_get_speed(sprite_index)*image_speed;
+	if(_type == spritespeed_framespersecond)
+	    _spd = _spd/room_speed;
+	if(argument_count > 2) _spd=argument[2];
+	return _image+_spd >= sprite_get_number(_sprite);
+}

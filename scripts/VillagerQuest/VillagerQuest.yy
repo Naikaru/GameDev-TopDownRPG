@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VillagerQuest",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VillagerQuest",
+  "parent":{
+    "name":"NPCs",
+    "path":"folders/Scripts/Entities/NPCs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

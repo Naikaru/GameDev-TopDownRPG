@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VillagerDialogueResponses",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VillagerDialogueResponses",
+  "parent":{
+    "name":"NPCs",
+    "path":"folders/Scripts/Entities/NPCs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
